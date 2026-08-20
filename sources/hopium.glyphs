@@ -10,10 +10,10 @@ FLACKED flacked Flacked
 ONWARDS onwards Onwards
 EMESHED emeshed Emeshed
 GAFFERS gaffers Gaffers
-JAMMERS jammers Jammers
 NOTHING nothing Nothing
 VAMPIRE vampire Vampire
 SHAVING shaving Shaving
+JAMMERS jammers Jammers
 BAGGAGE baggage Baggage
 WATERED watered Watered
 CHIPPIE chippie Chippie
@@ -52,6 +52,10 @@ floa
 foam
 offal
 buff",
+"AaBbCcDdEeFfGg
+HhIiJjKkLlMmNn
+OoPpQqRrSsTtUu
+VvWwXxYyZz ",
 );
 axes = (
 {
