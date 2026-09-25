@@ -1,6 +1,6 @@
 # Hopium
 
-_Hopium_ is a monospace sans serif designed for display use. 
+_Hopium_ is a contemporary monospace sans serif designed for display use.
 
 ![Sample Image](documentation/HopiumGitHubImages1.png)
 ![Sample Image](documentation/HopiumGitHubImages2.png)
