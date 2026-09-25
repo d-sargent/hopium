@@ -2,8 +2,10 @@
 
 _Hopium_ is a monospace sans serif designed for display use. 
 
-![Sample Image](documentation/hopium-first-sample.png)
-![Sample Image](documentation/hopium-first-sample-alphabet.png)
+![Sample Image](documentation/HopiumGitHubImages1.png)
+![Sample Image](documentation/HopiumGitHubImages2.png)
+![Sample Image](documentation/HopiumGitHubImages3.png)
+![Sample Image](documentation/HopiumGitHubImages4.png)
 
 
 ## About the Designer
