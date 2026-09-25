@@ -2,8 +2,6 @@
 
 _Hopium_ is a monospace sans serif designed for display use. 
 
-The design of _Hopium_ was inspired by the on stage displays used by the band _Massive Attack_ in August 2026.
-
 ![Sample Image](documentation/hopium-first-sample.png)
 ![Sample Image](documentation/hopium-first-sample-alphabet.png)
 
@@ -18,6 +16,9 @@ As a design practitioner, David is interested in how creative practice can engag
       
 
 ## Changelog
+
+**September 2026. Version 0.2**
+* Base uppercase, lowercase, and numerals completed.
 
 **August 2026. Version 0.1**
 * Initial upload of some letterforms (proof of concept)
